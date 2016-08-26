@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d235cd75-b1f6-4caf-8fea-188db06f15ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/bindingdai/repository/DrugRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/bindingdai/repository/PatientRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/bindingdai/repository/PhysicalExamRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-    </list>
+    <list default="true" id="d235cd75-b1f6-4caf-8fea-188db06f15ba" name="Default" comment="" />
     <ignored path="SpringDiagnosis.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -938,7 +932,7 @@
       <workItem from="1467688013892" duration="2095000" />
       <workItem from="1472216647488" duration="428000" />
       <workItem from="1472217330320" duration="591000" />
-      <workItem from="1472218129844" duration="1194000" />
+      <workItem from="1472218129844" duration="1208000" />
     </task>
     <task id="LOCAL-00001" summary="history commit">
       <created>1466584899406</created>
@@ -965,7 +959,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291123000" />
+    <option name="totallyTimeSpent" value="291137000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
